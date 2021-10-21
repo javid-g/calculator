@@ -1,2 +1,2 @@
-# calculator
+# Calculator
 Basic Calculator application utilizing Vanilla JS, CSS &amp; HTML
