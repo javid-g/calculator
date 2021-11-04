@@ -19,6 +19,7 @@
 	background-color: olive;
 	border-style: solid;
 	border-width: thin;
+	word-wrap: normal;
 }
 .calculator-display {
 	background-color: #E0E0E0;
